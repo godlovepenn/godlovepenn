@@ -12,7 +12,7 @@
 
 **[Attack Simulation Claude Plugin](https://github.com/godlovepenn/attack-simulation-claude)** (2025) — Open-source Claude Code plugin for TTPForge that generates YAML-format attack procedures from natural language descriptions.
 
-**[Effect of Packing on MalConv](https://github.com/godlove-penn/effect-of-packing-on-malconv)** (2021, M.S. research) — Empirical study testing the robustness of the MalConv CNN-based malware classifier against executable packing techniques.
+**[Effect of Packing on MalConv](https://github.com/godlovepenn/effect-of-packing-on-malconv)** (2021, M.S. research) — Empirical study testing the robustness of the MalConv CNN-based malware classifier against executable packing techniques.
 
 ---
 
